@@ -7,7 +7,7 @@ Leer zelfstanding de basis van programmeren met JavaScript, om te gebruiken in d
 
 Deze deeltaak hoort bij Semester 1, 2 en 3. Je bent de opleiding begonnen met HTML en CSS, twee _declaratieve_ programmeertalen. JavaScript is een _imperatieve_ programmeertaal, wat voor veel frontenders een grote stap is. Door deze deeltaak zelfstandig stap voor stap uit te voeren, krijg je de basisvaardigheden van programmeren en JavaScript sneller onder de knie.
 
-Dit is een deeltaak die je individueel uitvoert. Op donderdagen kun je deze deeltaak doen onder begeleiding van Jad Joubran, de maker van de online cursussen die we hieronder linken.
+Dit is een deeltaak die je individueel uitvoert.
 
 
 ## Doel van deze opdracht
