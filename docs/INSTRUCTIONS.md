@@ -23,7 +23,7 @@ Volg in het eerste semester lessen van [LearnProgramming.online](https://learnpr
 
 Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. De cursus gebruikt JavaScript om programmeer concepten uit te leggen, wat goed aansluit bij onze opleiding en je alvast voorbereidt op Semester 2.
 
-Hou in je I Love Web Learning Journal _dagelijks_ zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe programmeren werkt. Bespreek je voortgang ook regelmatig met je mentoren en docenten.
+Hou in je I Love Web Learning Journal bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe programmeren werkt. Bespreek je voortgang ook regelmatig met je mentoren en docenten.
 
 Probeer wat je hebt geleerd toe te passen in de leertaken in Sprint 5 en 6, met client-side micro-interacties en het driestappenplan dat we je aanleren. Noteer dan in de leertaak wat je hebt toegepast en verwijs naar je Learning Journal.
 
@@ -34,7 +34,7 @@ Volg in het tweede semester _dagelijks_ een les van [LearnJavaScript.online](htt
 
 Je kan op verschillende niveaus oefeningen doen, net als bij de vorige cursus. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is.
 
-Hou in je I Love Web Learning Journal _dagelijks_ zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript werkt.
+Hou in je I Love Web Learning Journal bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript werkt.
 
 Probeer wat je hebt geleerd toe te passen in de leertaken in Semester 2, bijvoorbeeld in client-side interacties en Progressive Enhancement of server-side Node, Express en Liquid code. Noteer dan met code comments in de leertaak wat je hebt toegepast en verwijs naar je Learning Journal.
 
@@ -45,6 +45,6 @@ Volg in het derde semester dagelijks verschillende lessen van [LearnJavaScript.o
 
 Veel stagebedrijven gaven bij ons de afgelopen jaren aan dat kennis van React en TypeScript erg handig is, ook al zijn dit geen standaarden, waar we tot nu toe bij de opleiding veel aandacht aan hebben besteed. Het kan dus verstandig zijn om ook zelfstandig aan de slag te gaan met [ReactTutorial.app](https://react-tutorial.app/) en [LearnTypeScript.online](https://learntypescript.online/). Hiermee begrijp je ook meer van hoe frameworks zoals SvelteKit werken. Je bereidt jezelf hiermee dus voor op het werkveld, zeker als je het weet te combineren met de sterke basis die je bij ons aangeleerd hebt.
 
-Hou in je I Love Web Learning Journal zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript, React of en/of TypeScript werken. Dit kun je ook gebruiken in het mentorprogramma (maar hou daarbij rekening met het niveau van de eerstejaars studenten).
+Hou in je I Love Web Learning Journal bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript, React of en/of TypeScript werken. Dit kun je ook gebruiken in het mentorprogramma (maar hou daarbij rekening met het niveau van de eerstejaars studenten).
 
 Pas wat je hebt geleerd toe in de leertaken in Semester 3, bijvoorbeeld door tooling toe te voegen of aan te passen, en nieuwe packages op NPM te verkennen. Met name in je I Love Web project kun je hier alle kanten mee op. Zoek bijvoorbeeld eens uit hoe een Markdown parser werkt. Noteer dan met code comments in de leertaak wat je hebt toegepast en verwijs naar je Learning Journal.
